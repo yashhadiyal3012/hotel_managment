@@ -1,0 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
+
+.navbar{
+    background-color: rgb(33, 37, 41) !important;
+}
+
+footer{
+    background-color: rgb(33, 37, 41) !important;
+}
+
+.navbar a:hover{
+    color: gold !important;
+}
+
+footer .list-group-item{
+    background-color: rgb(33, 37, 41) !important;
+    color: #fff;
+}
+
+
+footer .list-group-item:hover{
+    color: gold;
+    cursor: pointer;
+}
+
+.social-icon{
+    color: #fff;
+}
+
+.social-icon:hover{
+    color: gold;
+}
+
+.social-icons{
+    list-style: none;
+}
+
+.footer-social-icons{
+    text-align: center;
+}
+
+.social-icons li {
+    vertical-align: top;
+    display: inline;
+    padding: 10px;
+    height: 100px;
+}
+
+.active{
+    color: gold !important;
+}
+
+
+.footer-text{
+    text-align: center;
+}
